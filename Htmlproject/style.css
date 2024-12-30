@@ -1,5 +1,21 @@
+body {
+    background-color: antiquewhite;
+}
 h1 {
     color: black;
-    background-color: aliceblue;
+    background-color: antiquewhite;
+    align-items: center;
+    text-align: center;
+}
+h2 {
+    color: mediumslateblue;
     
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+p {
+    color: black;
+    background-color: blanchedalmond;
+    text-align: justify;
 }
