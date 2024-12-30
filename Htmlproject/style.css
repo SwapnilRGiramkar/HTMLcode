@@ -1,21 +1,35 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(156, 149, 137);
 }
 h1 {
     color: black;
-    background-color: antiquewhite;
+    
     align-items: center;
     text-align: center;
 }
 h2 {
-    color: mediumslateblue;
-    
+    color: rgb(122, 114, 168);
     align-items: center;
     align-content: center;
     text-align: center;
 }
+button {
+   text-emphasis-color: white;
+   background-color: rgb(145,145,130);
+   text-align: center;
+   align-items: center;
+   border: 1px;
+}
 p {
     color: black;
-    background-color: blanchedalmond;
+    
     text-align: justify;
+}
+ul {
+    text-align: justify;
+    
+}
+h5{
+    color: rgb(41, 39, 39);
+    text-align: center;
 }
