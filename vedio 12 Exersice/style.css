@@ -1,0 +1,17 @@
+h1 {
+    color: antiquewhite;
+}
+main {
+    background-color: black;
+    color: aliceblue;
+}
+header{
+    color: rgb(18, 17, 18);
+    background-color: antiquewhite;
+    text-align: center;
+    text-size-adjust: 300px;
+    text-wrap: 200px;
+}
+footer {
+    text-align: center;
+}
