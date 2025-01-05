@@ -4,4 +4,7 @@ using table we represented information in structuring format and structuring the
 <table></table>--- this tag represent the table 
 <th></th>--- this tag represented the head of the table 
 <tr></tr>-- tag represented the rows of thecolumns
-<td></td>--- tag indicates the data for the cell in the table
+<td></td>--- tag indicates the data for the cell in the table.
+***Cell Paddings-
+                it specifies the space between content of cell nd its 
+                border in pixels
