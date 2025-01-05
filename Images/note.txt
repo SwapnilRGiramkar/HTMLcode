@@ -1,0 +1,7 @@
+Images-->>
+        Images play an Important Role in webpages .
+        Total look of webpages are Improved by webpage.
+        -Image can embedded inside the document using <img> tag.
+        -minimum it requires a parameter.
+        -exa--->
+                <img src="titlename/path" [border=n] [alt="text"] [height=n] [width=n]>
