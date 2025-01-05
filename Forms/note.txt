@@ -1,0 +1,13 @@
+Forms-->
+    most common way for a user to communicate the information from a web browser to the Server
+    -<form> tag create a html form 
+    -in this form mrthod and action are Important.
+    * Method-
+        -Attribute Specifies how the Entered data in form is send to destination.
+        -there are two methods to sending information-
+        1)Post Method
+        2)get Method
+    *Action-->
+        -this attribute specifies the url of teh application
+        -which is to be called when user click the Submit Button or submitting the form.
+    
