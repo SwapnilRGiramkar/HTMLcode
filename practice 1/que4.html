@@ -1,0 +1,54 @@
+<!-- Explain the difference between id and class. -->
+<!-- class= we can multiple class name in our one html file there is conflict but we can
+  and class showing using (.) exa-.red{} i.e. class-->
+<!-- id= id means unique identifire there is only one id name we can use
+   and id access using hashtag (#) id using for perticular part retrieving-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>class v/s id</title>
+        <style>
+            .container{
+                color: rgb(47, 5, 5) ;
+                padding: 34px;
+                margin: 34px;
+                border: 3px solid black;
+            }
+            #red{
+                color: rgb(220, 82, 31);
+                background-color: bisque;
+                padding: 34px;
+                margin: 34px;
+                border: 3px solid black;
+                align-items: center;
+                /* display: flex; */
+                text-align: center;
+                text-shadow: 12rem;
+                text-justify: auto;
+                font-size: larger;
+                font-weight: 200;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>This is called class</h1>
+            <p>we can used multiple class in one div tag</p>
+        </div>
+        <div class="container">
+            <h1>Jai Shree Krishna</h1>
+            <p>Hare Rama Hare Krishna</p>
+        </div>
+        <div class="container">
+            <h1>Jai Shree Ram</h1>
+            <p>Radhe Radhe</p>
+        </div>
+        <!-- id element -->
+        <div id="red">
+            <p>Siya Var Shree Prabhu RamChandra Ki Jai</p>
+        </div>
+
+    </body>
+</html>
